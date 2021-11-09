@@ -1,0 +1,9 @@
+.card-item {
+  width: 50%;
+}
+.card-item img {
+  -o-object-fit: contain;
+     object-fit: contain;
+  -o-object-position: center;
+     object-position: center;
+}
